@@ -1,1 +1,1 @@
-# genome-scale-metabolic-modeling
+# genome-scale-metabolic-modeling of Streptomyces coelicolor
